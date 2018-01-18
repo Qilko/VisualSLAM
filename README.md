@@ -1,2 +1,2 @@
 # VisualSLAM
-Learning Notes of visual SLAM
+《视觉SLAM十四讲》Learning Notes
