@@ -22,7 +22,7 @@ chmod +x KDevelop.AppImage
   - add -> compiled binary
   - project target 指向 二进制文件
 
-3. 菜单栏：build, debug, execute 
+3. 菜单栏：build, debug, execute
 
 ### Cmake
 
