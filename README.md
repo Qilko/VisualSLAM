@@ -1,4 +1,6 @@
 # VisualSLAM Learning Notes
+参考图书：
+
 高翔, 张涛, 颜沁睿, 刘毅 《视觉SLAM十四讲：从理论到实践》，电子工业出版社, 2017
 
 ## Chapter 2
