@@ -14,6 +14,7 @@
 5. 建图(Mapping): 根据估计的轨迹，建立与任务要求对应的地图。
 
 #### 实践：基于Ubuntu用Kdevelop创建Cmake项目
+ - BasicCpp
 
 ## Chapter 3
 
@@ -25,3 +26,5 @@
 - 欧拉角
 
 ### 实践：Eigen库
+  - libEigen
+  - libEigenGeometry
